@@ -5,13 +5,17 @@ G-one is a cross-platform mobile and web support application for booking online 
 "G-one is more than just an app for booking online doctor appointments. It is a one-stop shop for all your medical needs where you can:
 
 ![alt text](https://github.com/Detectors03/G-One/blob/main/images/WhatsApp%20Image%202020-10-31%20at%2011.59.35%20AM%20(1).jpeg)
-- Book doctor appointments
+
+# Continue as Doctor or Continue as Patient
+![alt text](https://github.com/Detectors03/G-One/blob/main/images/WhatsApp%20Image%202020-10-31%20at%2011.59.36%20AM%20(1).jpeg)
+
+# - Book doctorDappointments
 ![alt text](https://github.com/Detectors03/G-One/blob/main/images/WhatsApp%20Image%202020-10-31%20at%2011.59.34%20AM%20(1).jpeg)
 
-- Payment gateway integration.
-- Attractive user interface.
-- Read free & regular health tips
-- Diagnose your covid-19 report using your chest X-Ray
+# - Payment gateway integration.
+# - Attractive user interface.
+# - Read free & regular health tips
+# - Diagnose your covid-19 report using your chest X-Ray
 # detecting
 ![alt text](https://github.com/Detectors03/G-One/blob/main/images/WhatsApp%20Image%202020-10-31%20at%2011.59.35%20AM.jpeg)
 # result
@@ -19,9 +23,11 @@ G-one is a cross-platform mobile and web support application for booking online 
 - Diagnose your heart disease using your basic information like gender,chest pain type,cholesterol etc.
 - SOS facility : where you can get one tap call support for emergency services.
 - Online blood bank facility
+
 ![alt text](https://github.com/Detectors03/G-One/blob/main/images/WhatsApp%20Image%202020-10-31%20at%2011.59.34%20AM.jpeg)
-- Maintain digital health records
-- Read free & regular health tips
+
+# - Maintain digital health records
+# - Read free & regular health tips
 
 # Website overview - portal for hospitals and clinics
 ![alt text](https://github.com/Detectors03/G-One/blob/main/images/WhatsApp%20Image%202020-10-31%20at%2011.57.56%20AM%20(1).jpeg)
