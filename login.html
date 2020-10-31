@@ -1,0 +1,104 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+
+<head> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content= 
+    "width=device-width, initial-scale=1.0"> 
+  
+  <title> 
+   login
+  </title> 
+
+  <!-- bootstrap linked-->
+  <link rel="stylesheet" href= 
+"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity= 
+"sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+    crossorigin="anonymous"> 
+</head> 
+
+<body> 
+
+  
+  <div class="card mx-auto" style="width:400px;height: 570px; margin-top: 25px;"> 
+       <div class="card-body"> 
+      <form >
+  <div class="form-group">
+    <label >Full name</label>
+    <input type="text" class="form-control item" id="fullname"  placeholder="Enter name" id="text_field">
+  </div>
+     <div class="form-group">
+    <label >Email address</label>
+    <input type="email" class="form-control item" id="Email1" aria-describedby="emailHelp" placeholder="Enter email" id="text_email">
+    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+  </div>
+   <div class="form-group">
+    <label >Phone number</label>
+    <input type="number" class="form-control item" id="phone" placeholder="Enter phone number" id="num">
+  </div>
+  <div class="form-group">
+    <label >speciality</label>
+    <input type="text" class="form-control item" id="speciality" placeholder=" Speciality" id="domain">
+  </div>
+   <div class="form-group">
+    <label >Hospital/Clinic Name</label>
+    <input type="text" class="form-control item" id="name" placeholder="Name" id="hos">
+  </div>
+  <a href="dashboard.html" class="btn btn-outline-primary btn-sm"  onclick="Data()">Submit</a>
+</form>
+  </div> 
+  <script src="index1.js"></script>
+
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity= 
+"sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"> 
+  </script> 
+  
+  <script src= 
+"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+    integrity= 
+"sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"> 
+  </script> 
+  
+  <script src= 
+"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+    integrity= 
+"sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"> 
+
+
+
+
+  </script> 
+  <script src="https://www.gstatic.com/firebasejs/8.0.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.0.0/firebase-firestore.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyADigGT7eTkRXf_A98SRJrfrvAvWCnfmTU",
+    authDomain: "nandu-b2ba8.firebaseapp.com",
+    databaseURL: "https://nandu-b2ba8.firebaseio.com",
+    projectId: "nandu-b2ba8",
+    storageBucket: "nandu-b2ba8.appspot.com",
+    messagingSenderId: "396850694580",
+    appId: "1:396850694580:web:a9575f242cbe6ec98fcae1"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+
+</script>
+</body> 
+<style >
+  body{
+    background: linear-gradient(to right, #0066eb 0%, #ff8ab3 100%);
+  }
+</style>
+
+</html>
