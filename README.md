@@ -23,6 +23,8 @@ One can also consult from healthcare providers from best clinics & top hospitals
 
 🔅Test your heart disease using some basic details.
 
+🔅SOS facility : where you can get one tap call support for emergency services
+
 🔅Book appointment  with specialists—Dentists, Dermatologists, Gynaecologists, ENT specialist, General physicians, Urologists, Ophthalmologists, Paediatricians, Oncologists, Psychologists, Gastroenterologists & more
 
 🔅Access all your digital health records in one place, prescription and health reports.
