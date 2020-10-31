@@ -4,25 +4,26 @@
 G-one is a cross-platform mobile and web support application for booking online appointments.
 "G-one is more than just an app for booking online doctor appointments. It is a one-stop shop for all your medical needs where you can:
 
+![alt text](https://github.com/Detectors03/G-One/blob/main/images/WhatsApp%20Image%202020-10-31%20at%2011.59.35%20AM%20(1).jpeg)
 - Book doctor appointments
+![alt text](https://github.com/Detectors03/G-One/blob/main/images/WhatsApp%20Image%202020-10-31%20at%2011.59.34%20AM%20(1).jpeg)
 
 - Payment gateway integration.
 - Attractive user interface.
 - Read free & regular health tips
 - Diagnose your covid-19 report using your chest X-Ray
+# detecting
+![alt text](https://github.com/Detectors03/G-One/blob/main/images/WhatsApp%20Image%202020-10-31%20at%2011.59.35%20AM.jpeg)
+# result
+![alt text](https://github.com/Detectors03/G-One/blob/main/images/WhatsApp%20Image%202020-10-31%20at%2011.59.34%20AM%20(2).jpeg)
 - Diagnose your heart disease using your basic information like gender,chest pain type,cholesterol etc.
 - SOS facility : where you can get one tap call support for emergency services.
 - Online blood bank facility
+![alt text](https://github.com/Detectors03/G-One/blob/main/images/WhatsApp%20Image%202020-10-31%20at%2011.59.34%20AM.jpeg)
 - Maintain digital health records
 - Read free & regular health tips
 
-![WhatsApp Image 2020-10-31 at 11 59 34 (1)](https://user-images.githubusercontent.com/72252351/97773104-16a47e00-1b73-11eb-920c-4783195acbaf.jpeg)
-![WhatsApp Image 2020-10-31 at 11 59 34](https://user-images.githubusercontent.com/72252351/97773107-186e4180-1b73-11eb-8697-01f8dfbee605.jpeg)
-![WhatsApp Image 2020-10-31 at 11 59 36 (1)](https://user-images.githubusercontent.com/72252351/97773110-199f6e80-1b73-11eb-9ba1-d88e7dea5d54.jpeg)
-![WhatsApp Image 2020-10-31 at 11 59 36](https://user-images.githubusercontent.com/72252351/97773111-1b693200-1b73-11eb-91da-fe0aca371f06.jpeg)
-![WhatsApp Image 2020-10-31 at 11 59 35](https://user-images.githubusercontent.com/72252351/97772953-acd7a480-1b71-11eb-9ce3-31ea982bd19c.jpeg)
-
-
+# Website overview - portal for hospitals and clinics
 ![alt text](https://github.com/Detectors03/G-One/blob/main/images/WhatsApp%20Image%202020-10-31%20at%2011.57.56%20AM%20(1).jpeg)
 ![alt text](https://github.com/Detectors03/G-One/blob/main/images/WhatsApp%20Image%202020-10-31%20at%2011.57.56%20AM%20(2).jpeg)
 ![alt text](https://github.com/Detectors03/G-One/blob/main/images/WhatsApp%20Image%202020-10-31%20at%2011.57.56%20AM.jpeg)
