@@ -9,10 +9,12 @@ G-one is a cross-platform mobile and web support application for booking online 
 
 ![2](https://user-images.githubusercontent.com/72252351/97773492-283b5500-1b76-11eb-9f1a-1a4f0a16b947.JPG)
 
+# - Ml model for covid-19 detection from chest X-Ray.
 # - Payment gateway integration.
 # - Attractive user interface.
 # - Read free & regular health tips
 # - Diagnose your covid-19 report using your chest X-Ray
+ ![3](https://user-images.githubusercontent.com/72252351/97773559-cdeec400-1b76-11eb-9991-f0325dcbb859.JPG)
 # detecting
 ![alt text](https://github.com/Detectors03/G-One/blob/main/images/WhatsApp%20Image%202020-10-31%20at%2011.59.35%20AM.jpeg)
 # result
