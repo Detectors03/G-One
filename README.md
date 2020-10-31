@@ -3,15 +3,9 @@
 
 G-one is a cross-platform mobile and web support application for booking online appointments.
 "G-one is more than just an app for booking online doctor appointments. It is a one-stop shop for all your medical needs where you can:
-
-![1](https://user-images.githubusercontent.com/72252351/97773407-80be2280-1b75-11eb-8523-cb326ea79edf.JPG)
-
-
 # Continue as Doctor or Continue as Patient
-![alt text](https://github.com/Detectors03/G-One/blob/main/images/WhatsApp%20Image%202020-10-31%20at%2011.59.36%20AM%20(1).jpeg)
-
 # - Book doctorDappointments
-![alt text](https://github.com/Detectors03/G-One/blob/main/images/WhatsApp%20Image%202020-10-31%20at%2011.59.34%20AM%20(1).jpeg)
+![1](https://user-images.githubusercontent.com/72252351/97773407-80be2280-1b75-11eb-8523-cb326ea79edf.JPG)
 
 # - Payment gateway integration.
 # - Attractive user interface.
