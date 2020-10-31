@@ -20,9 +20,9 @@ G-one is a cross-platform mobile and web support application for booking online 
 ![alt text](https://github.com/Detectors03/G-One/blob/main/images/WhatsApp%20Image%202020-10-31%20at%2011.59.35%20AM.jpeg)
 # result
 ![alt text](https://github.com/Detectors03/G-One/blob/main/images/WhatsApp%20Image%202020-10-31%20at%2011.59.34%20AM%20(2).jpeg)
-- Diagnose your heart disease using your basic information like gender,chest pain type,cholesterol etc.
-- SOS facility : where you can get one tap call support for emergency services.
-- Online blood bank facility
+# - Diagnose your heart disease using your basic information like gender,chest pain type,cholesterol etc.
+# - SOS facility : where you can get one tap call support for emergency services.
+# - Online blood bank facility
 
 ![alt text](https://github.com/Detectors03/G-One/blob/main/images/WhatsApp%20Image%202020-10-31%20at%2011.59.34%20AM.jpeg)
 
